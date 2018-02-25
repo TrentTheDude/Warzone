@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Warzone:jar">
+    <output-path>$PROJECT_DIR$/../../../Warzone/plugins</output-path>
+    <root id="archive" name="Warzone.jar">
+      <element id="module-output" name="Warzone" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+name: Warzone
+version: 1.0
+author: Trent & Trevor
+main: me.warzone.Main
+commands:
+  rank:
+  map:
+  start:
+  end:
+  build:
